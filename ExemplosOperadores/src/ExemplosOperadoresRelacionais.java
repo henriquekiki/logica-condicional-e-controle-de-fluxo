@@ -1,4 +1,4 @@
-public class ExemplosOperadores {
+public class ExemplosOperadoresRelacionais {
     public static void main(String[] args) {
         
         int i1 = 10;
